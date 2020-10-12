@@ -15,6 +15,6 @@
 	"mail_veriffirst": "Your email has been successfully verified !\nGo back to the discord to continue !",
 	"helloName_title": "Please write your **fullname** *(John Smith)* down below, it will make it easier for other students to communicate with you.",
 	"helloName_desc": "Don't worry our servers and databases are in conformity with the GDPR rules, your data is safe.",
-	"helloOver_title": "Proszę zapisać swoje **pełne nazwisko** *(John Smith)* poniżej, to ułatwi innym studentom rozpoznanie ciebie.",
-	"helloOver_desc": "Nie martw się, nasze serwery i bazy danych są zgodne z zasadami GDPR, Twoje dane są bezpieczne."
+	"helloOver_title": "Welcome to the discord !, don't forget to follow the rules !",
+	"helloOver_desc": "This server is still a work in progress, the final version will be soon deployed."
 }
